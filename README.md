@@ -2,7 +2,7 @@
 
 This is one of the personal project that I have been working.
 
-The project has the same requirements but I am trying to improve the code.
+The project has the same requirements of my group project that I did during my bachelors but I am trying to improve the code.
 
 Is a embedded sytem that can detect the temperature and humitiy. It will blink RED if temperature outside the range. Blue
 blink if Humidity is outside the range. If both humidity and temperature are outside range, it will flash Red and Blue. Green blink is if both Humidity and Temperature are in range.
